@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @sayeedajmal
+# Introduction
+
+- 👋 Hi, I’m @sayeedajmal..
 - 👀 I’m interested in Programming/Coding..
-- 🌱 I’m currently Experiencing Java..
+- 😎 I will Become A Developer/Programmer, OneDay Inshallah.
+- 🌱 I’m currently Experiencing JavaFx..
+- 💓 I will Learn Flutter for Mobile Development.
+- 🎂 01/01/2002 is my BirthDay..
+- 💝 I Like Collaborate with New Programmers/Developers..
 
 <!---
 sayeedajmal/sayeedajmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
