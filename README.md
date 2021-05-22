@@ -5,7 +5,6 @@
 - 😎 I will Become A Developer/Programmer, OneDay Inshallah.
 - 🌱 I’m currently Experiencing JavaFx..
 - 💓 I will Learn Flutter for Mobile Development.
-- 🎂 01/01/2002 is my BirthDay..
 - 💝 I Like Collaborate with New Programmers/Developers..
 
 <!---
