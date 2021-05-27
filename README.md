@@ -6,12 +6,8 @@
 - 🌱 I’m currently Experiencing JavaFx..
 - 💓 I will Learn Flutter for Mobile Development.
 - 💝 I Like Collaborate with New Programmers/Developers..
-
-<!---
-sayeedajmal/sayeedajmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
- <h1 align='center'> Hi there 👋, I'm Sayeed Ajmal </h1>
+ <h1 align='center'> Hi there 👋, I'm Sayeed Ajmal <img class="emoji" alt="boy" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png"></h1>
 
 <p align='center'>
   I live in Karnataka, India. Work at <b>MYSELF</b>
@@ -40,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <h4>🌱 I'm currently learning...</h4>
 <h5 align="center">Back-End Developer</h5>
 <p align="center" >
-   &nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
