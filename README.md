@@ -1,9 +1,9 @@
 # Introduction
 
 - 👋 Hi, I’m @sayeedajmal..
-- 👀 I’m interested in Programming/Coding..
-- 😎 I will Become A Developer/Programmer, OneDay Inshallah.
-- 🌱 I’m currently Learning DSA..
+- 👀 I Love Programming..
+- 😎 I am a Developer/Programmer.
+- 🌱 I’m currently Learning DSA.
 - 💝 I Like Collaborate with New Developers..
 -
 <!-- <h1 align='center'> Hi there 👋, I'm Sayeed Ajmal </h1>
