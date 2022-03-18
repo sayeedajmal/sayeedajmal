@@ -1,8 +1,7 @@
 # Introduction
 
-- 👋 Hi, I’m @sayeedajmal..
+- 👋 Hi, I’m sayeed Ajmal..
 - 👀 I Love Programming..
-- 😎 I am a Developer/Programmer.
 - 🌱 I’m currently Experiencing Android Development.
 - 💝 I Like Collaborating with New Developers..
 -
