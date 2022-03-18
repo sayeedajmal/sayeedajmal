@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @sayeedajmal..
 - 👀 I Love Programming..
 - 😎 I am a Developer/Programmer.
-<!-- - 🌱 I’m currently Learning DSA. -->
-- 💝 I Like Collaborate with New Developers..
+- 🌱 I’m currently Experiencing Android Development.
+- 💝 I Like Collaborating with New Developers..
 -
 <!-- <h1 align='center'> Hi there 👋, I'm Sayeed Ajmal </h1>
 
