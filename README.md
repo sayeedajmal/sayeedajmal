@@ -7,11 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/sayeedajmal6" target="blank"><img src="https://img.shields.io/twitter/follow/sayeedajmal6?logo=twitter&style=for-the-badge" alt="sayeedajmal6" /></a></p>
 
-- 🔭 I’m currently working on [Android Applications](https://github.com/sayeedajmal/Applications)
+- 🔭 I’m currently working on [T-Shirt Store (Hibernate & Spring)](https://github.com/sayeedajmal/T-shirt-Web)
 
 - 🌱 I’m currently learning **SpringBoot, Hibernate, AWS, Machine Learning**
 
-- 👯 I’m looking to collaborate on [Android Project](https://github.com/sayeedajmal/Applications)
+- 👯 I’m looking to collaborate on [Hibernate & SpringBoot Project](https://github.com/sayeedajmal/T-shirt-Web)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sayeedthedev.web.app)
 
