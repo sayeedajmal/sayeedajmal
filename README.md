@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [SpringBoot Project](https://github.com/sayeedajmal/BloodDonation-API)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sayeedthedev.firebaseapp.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sayeedthedev.web.com)
 
 - 💬 Ask me about **Java Core, Java JDBC, JavaFX, Web Development, Android Development, Python, Machine Learning**
 
