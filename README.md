@@ -35,8 +35,8 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,github,linux,aws,bash,firebase,gcp,mysql,spring,androidstudio" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayeedajmal&show_icons=true&locale=en&layout=compact" alt="sayeedajmal" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayeedajmal&show_icons=true&locale=en&layout=compact" alt="sayeedajmal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayeedajmal&show_icons=true&locale=en" alt="sayeedajmal" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayeedajmal&show_icons=true&locale=en" alt="sayeedajmal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayeedajmal&" alt="sayeedajmal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayeedajmal&" alt="sayeedajmal" /></p>
