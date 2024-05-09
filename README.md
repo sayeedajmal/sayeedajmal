@@ -32,7 +32,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,github,linux,aws,bash,firebase,gcp,mysql,spring,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,firebase,gcp,mysql,spring,androidstudio,react,html,css,bootstrap,github,linux,aws,bash" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayeedajmal&show_icons=true&locale=en&layout=compact" alt="sayeedajmal" /></p>
