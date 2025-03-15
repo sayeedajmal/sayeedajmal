@@ -22,13 +22,10 @@
 ### 🚀 About Me  
 - 🔥 **Java Backend Developer** specializing in **Spring Boot, Microservices & Cloud Tech**  
 - 🤖 Currently exploring **AI, RAG (Retrieval-Augmented Generation), and Multi-Agent Systems**  
-- 🛠️ **Building**: [FamilyGram](https://github.com/sayeedajmal) – A social app for families  
-- 👯 **Looking to collaborate on**:  
-  - [Spring Boot Project](https://github.com/sayeedajmal/BloodDonation-API)  
-  - [ML & Data Science Introduction](https://github.com/sayeedajmal/MLDS-Introduction)  
+- 🛠️ **Building & Collaborating on**: [FamilyGram](https://github.com/sayeedajmal/familygram) – A social app for families  
 - 👨‍💻 **All my projects**: [My Portfolio](https://sayeedthedev.web.app)  
 - 🌠 **New Portfolio (React & Tailwind)**: [Portfolio](https://sayeedcodes.web.app)  
-- 💬 **Ask me about**: Java Core, Java SE, Spring, JWT, Android Development, React, Bootstrap, Machine Learning, Data Science  
+- 💬 **Ask me about**: Java Core, Java SE, Spring, JWT, Android Development, React, Bootstrap, AI, RAG  
 - 📫 **Reach me at**: sayeedajmala06@gmail.com  
 - 📄 **Know about my experiences**: [Resume](https://sayeedcodes.web.app)  
 - ⚡ **Fun fact**: I love **Music & Shayri** 🎶  
