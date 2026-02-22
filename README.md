@@ -5,10 +5,6 @@
 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayeedajmal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sayeedajmal&row=2&column=3" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 <!--
