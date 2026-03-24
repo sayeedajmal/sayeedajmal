@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/sayeedajmal">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sayeedajmala06@gmail.com">
+  <a href="mailto:sayeedajmala06@icloud.com">
     <img src="https://img.shields.io/badge/Email-✉️-red?style=for-the-badge" alt="Email"/>
   </a>
 </p>
